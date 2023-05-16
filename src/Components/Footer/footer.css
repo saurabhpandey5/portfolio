@@ -1,0 +1,23 @@
+footer{
+    background-color: #111e38;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+.footer-logo img{
+ width: 100px;
+}
+.footer-socail-media{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-socail-media li{
+   list-style: none;
+   margin: 10px;
+}
+
+.footer-socail-media li a{
+    text-decoration: none;
+    color: #fcb122;
+ }
