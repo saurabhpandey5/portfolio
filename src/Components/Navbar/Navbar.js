@@ -4,9 +4,9 @@ import "./Navbar.css";
 const Navbar = () => {
   return (
     <nav>
-      <div className="nav-logo">
+      {/* <div className="nav-logo">
         <img src={logo} alt="logo"></img>
-      </div>
+      </div> */}
       <div className="nav-links">
         <ul>
           <li>

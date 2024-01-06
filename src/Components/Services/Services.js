@@ -8,7 +8,7 @@ const Services = () => {
         {/* desc */}
         <div className="services-desc-container">
           <h1>
-            My Awesome <span>Services</span>
+            My <span>Experience</span>
           </h1>
           <p>
             “Hello, my name is Saurabh Pandey, and I’ve been working as a
